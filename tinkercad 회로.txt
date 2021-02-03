@@ -3,6 +3,8 @@ LED 기본 예제 https://www.tinkercad.com/things/9rub3Ah9Myz
 스위치를 이용한 LED 켜기 https://www.tinkercad.com/things/4X5jzyWoMqY
 토글 스위치 https://www.tinkercad.com/things/8JNjqqlRaMU
 PIR 센서 기본 회로 https://www.tinkercad.com/things/cTQOYfc5pA2
+기울기 센서 기본 회로  https://www.tinkercad.com/things/dXTfyZbYwrt
+적외선 리모컨, 센서 https://www.tinkercad.com/things/fQMHcB3xwvB
 7-segment 회로 https://www.tinkercad.com/things/dwWxe2ZcDg0
 PWM LED 예제 https://www.tinkercad.com/things/7yYkYuqjhhb
 PWM 토글 스위치 https://www.tinkercad.com/things/jRgy8Uckx8Y
